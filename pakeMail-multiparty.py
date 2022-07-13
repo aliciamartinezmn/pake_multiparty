@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-pakeMail con 3 participantes - Orientado a Objetos
+pakeMail con varios participantes - Orientado a Objetos
 utilizando (Password) Authenticated Key Establishment: from 2-party to group (y PakeMail y SPAKE2)
 """
 
